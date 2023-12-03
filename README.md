@@ -100,11 +100,11 @@ else:
     print("Element found at index: ",result)
 ```
 ## Sample Input and Output
-###1,
+### 1,linearSearch
 ![image](https://github.com/Gokkul-M/Search-Algorithm/assets/144870543/276a392f-3e29-424a-809b-cd089d98ca76)
-###2,
+### 2,Binary Search(Iterative Method)
 ![image](https://github.com/Gokkul-M/Search-Algorithm/assets/144870543/b931f68b-e728-4900-9d4a-32d3d13bf236)
-### 3,
+### 3, Binary Search (recursive Method)
 ![image](https://github.com/Gokkul-M/Search-Algorithm/assets/144870543/3ce1c27b-a876-480d-8d0a-52b321f906a4)
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
